@@ -1,0 +1,29 @@
+for (int S1 = 0; S1 < UserCourse.length; S1++) {
+			for (int S2 = S1 + 1; S2 < UserCourse.length; S2++) {
+				for (int mapIndx = 0; mapIndx < CourseSubsetmap.size(); mapIndx++) {
+
+					for (int key = 0; key < CourseSubsetmap.get(mapIndx).size(); key++) {
+						if (CourseSubsetmap.get(key).size() == 1) {
+							break;
+						}
+
+						/*
+						 * for (String[] Pair : CourseSubsetmap.get(key)) {
+						 * 
+						 * System.out.println("MI: "+mapIndx+"\tK: "+key);
+						 * System.out.println("P1 :"+Pair[0] +" P2: "+Pair[1]);
+						 * System.err.println("S1 :"+UserCourse[S1] +" S2: "+UserCourse[S2]);
+						 * System.out.println();
+						 * 
+						 * 
+						 * if (((Pair[0]==UserCourse[S1]) && (Pair[1]==UserCourse[S1])) ||
+						 * ((Pair[1]==UserCourse[S1]) && (Pair[0]==UserCourse[S1]))) {
+						 * System.out.println("inside else if"); CourseCount[S1][S2]++;
+						 * CourseCount[S2][S1]++; } }
+						 */
+
+					}
+				}
+			}
+
+		}

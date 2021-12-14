@@ -1,0 +1,29 @@
+//Initialization
+tree = new Node()
+Node[] queue;
+
+addToQueue(Node node, Node[] queue) { }
+
+//methods
+addNode( value ) {
+    queue = [];
+
+    queue.push(tree);
+
+    while(queue.isEmpty) {
+        currentNode = queue.pop();
+        if(currentNode.left == null) {
+            add (value)
+            break;
+        }
+        else if(currentNode.right == null) {
+            add (value)
+            break;
+        }
+        else {
+            queue.push(left)
+            queue.push(right)
+        }
+    } 
+
+}

@@ -1,0 +1,69 @@
+1) customer
+************ Customer Details ************
+SELECT    c.CustomerID AS customerID_customer
+		   ,o.CustomerID AS customerID_orders
+           ,o.OrderID as orderID
+           ,c.CompanyName,o.OrderDate
+           ,sum(od.Quantity*od.UnitPrice) AS totalPrice
+           ,count(distinct o.OrderID) AS num_order 
+		
+FROM       orderdetails od
+INNER JOIN orders o ON o.OrderID=od.OrderID
+INNER JOIN customers c ON o.CustomerID=c.CustomerID
+WHERE o.OrderDate >= '1998-01-25' AND o.OrderDate <= '1998-02-01'
+group by c.CompanyName,c.CustomerID
+;
+##########################################
+
+2) product
+
+# ************ Product Details ************
+SELECT  distinct ct.CategoryID, 
+    ct.CategoryName,  
+    pd.ProductName, 
+    sup.CompanyName AS Supplier_Name,
+    sum(od.Quantity) AS Unit_Sold,
+    sum(round(od.UnitPrice * od.Quantity * (1 - od.Discount), 2)) as TotalSales_$
+FROM         orders o
+INNER JOIN orderdetails od ON o.OrderID=od.OrderID
+INNER JOIN products pd ON od.ProductID=pd.ProductID
+INNER JOIN categories ct ON ct.CategoryID=pd.CategoryID
+INNER JOIN suppliers sup ON sup.SupplierID=pd.SupplierID
+WHERE (o.OrderDate >= '1997-01-01' AND o.OrderDate <= '1997-12-31') #AND sup.CompanyName="Exotic Liquids"
+group by ct.CategoryID,ct.CategoryName,pd.ProductName
+order by ct.CategoryID,pd.ProductName,Total_sales desc
+;
+##########################################
+
+
+3) supplier
+# ************Supplier Details************
+with product_sale_info as
+(
+SELECT  distinct ct.CategoryID, 
+    ct.CategoryName,  
+    pd.ProductName, 
+    sup.CompanyName AS Supplier_Name,
+    count(pd.ProductID) AS NumOfProducts,
+    sum(round(od.UnitPrice * od.Quantity * (1 - od.Discount), 2)) as Total_Sales
+FROM         orders o
+INNER JOIN orderdetails od ON o.OrderID=od.OrderID
+INNER JOIN products pd ON od.ProductID=pd.ProductID
+INNER JOIN categories ct ON ct.CategoryID=pd.CategoryID
+INNER JOIN suppliers sup ON sup.SupplierID=pd.SupplierID
+WHERE (o.OrderDate >= '1997-01-01' AND o.OrderDate <= '1997-12-31') #AND sup.CompanyName="Aux joyeux ecclsiastiques"
+group by ct.CategoryID,ct.CategoryName,pd.ProductName
+order by ct.CategoryID,pd.ProductName,Total_sales desc
+)
+ select psi.Supplier_Name,
+        s.Address,s.City,
+        s.Region,s.PostalCode,s.Country,
+        count(distinct psi.ProductName) AS NumOfProducts, 
+        sum(psi.Total_Sales) as TotalSales_$
+from product_sale_info psi
+join suppliers s on psi.Supplier_Name=s.CompanyName
+group by psi.Supplier_Name#,psi.ProductName
+order by psi.Supplier_Name 
+;
+##########################################
+

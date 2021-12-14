@@ -1,0 +1,1726 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<period_summary>
+	<period>
+		<start_date> 1997-06-07 </start_date>
+		<end_date> 1997-12-07 </end_date>
+	</period>
+		<customer_list>
+			<customer>
+				<customerName> Alfreds Futterkiste </customerName>
+				<address>
+					<street_address> Obere Str. 57 </street_address>
+					<city> Berlin </city>
+					<region>   </region>
+					<postal_code> 12209 </postal_code>
+					<country> Germany </country>
+				</address>
+				<num_orders> 3 </num_orders>
+				<order_value> 2294.0 </order_value>
+			</customer>
+			<customer>
+				<customerName> Ana Trujillo Emparedados y helados </customerName>
+				<address>
+					<street_address> Avda. de la Constitucin 2222 </street_address>
+					<city> Mxico D.F. </city>
+					<region>   </region>
+					<postal_code> 05021 </postal_code>
+					<country> Mexico </country>
+				</address>
+				<num_orders> 2 </num_orders>
+				<order_value> 799.75 </order_value>
+			</customer>
+			<customer>
+				<customerName> Antonio Moreno Taquera </customerName>
+				<address>
+					<street_address> Mataderos  2312 </street_address>
+					<city> Mxico D.F. </city>
+					<region>   </region>
+					<postal_code> 05023 </postal_code>
+					<country> Mexico </country>
+				</address>
+				<num_orders> 3 </num_orders>
+				<order_value> 3414.4 </order_value>
+			</customer>
+			<customer>
+				<customerName> Around the Horn </customerName>
+				<address>
+					<street_address> 120 Hanover Sq. </street_address>
+					<city> London </city>
+					<region>   </region>
+					<postal_code> WA1 1DP </postal_code>
+					<country> UK </country>
+				</address>
+				<num_orders> 3 </num_orders>
+				<order_value> 2325.0 </order_value>
+			</customer>
+			<customer>
+				<customerName> B's Beverages </customerName>
+				<address>
+					<street_address> Fauntleroy Circus </street_address>
+					<city> London </city>
+					<region>   </region>
+					<postal_code> EC2 5NT </postal_code>
+					<country> UK </country>
+				</address>
+				<num_orders> 2 </num_orders>
+				<order_value> 970.0 </order_value>
+			</customer>
+			<customer>
+				<customerName> Berglunds snabbkp </customerName>
+				<address>
+					<street_address> Berguvsvgen  8 </street_address>
+					<city> Lule </city>
+					<region>   </region>
+					<postal_code> S-958 22 </postal_code>
+					<country> Sweden </country>
+				</address>
+				<num_orders> 6 </num_orders>
+				<order_value> 10037.45 </order_value>
+			</customer>
+			<customer>
+				<customerName> Blauer See Delikatessen </customerName>
+				<address>
+					<street_address> Forsterstr. 57 </street_address>
+					<city> Mannheim </city>
+					<region>   </region>
+					<postal_code> 68306 </postal_code>
+					<country> Germany </country>
+				</address>
+				<num_orders> 2 </num_orders>
+				<order_value> 794.0 </order_value>
+			</customer>
+			<customer>
+				<customerName> Blondesddsl pre et fils </customerName>
+				<address>
+					<street_address> 24, place Klber </street_address>
+					<city> Strasbourg </city>
+					<region>   </region>
+					<postal_code> 67000 </postal_code>
+					<country> France </country>
+				</address>
+				<num_orders> 4 </num_orders>
+				<order_value> 3775.0 </order_value>
+			</customer>
+			<customer>
+				<customerName> Bon app' </customerName>
+				<address>
+					<street_address> 12, rue des Bouchers </street_address>
+					<city> Marseille </city>
+					<region>   </region>
+					<postal_code> 13008 </postal_code>
+					<country> France </country>
+				</address>
+				<num_orders> 5 </num_orders>
+				<order_value> 6795.75 </order_value>
+			</customer>
+			<customer>
+				<customerName> Bottom-Dollar Markets </customerName>
+				<address>
+					<street_address> 23 Tsawassen Blvd. </street_address>
+					<city> Tsawassen </city>
+					<region> BC </region>
+					<postal_code> T2F 8M4 </postal_code>
+					<country> Canada </country>
+				</address>
+				<num_orders> 1 </num_orders>
+				<order_value> 3118.0 </order_value>
+			</customer>
+			<customer>
+				<customerName> Chop-suey Chinese </customerName>
+				<address>
+					<street_address> Hauptstr. 29 </street_address>
+					<city> Bern </city>
+					<region>   </region>
+					<postal_code> 3012 </postal_code>
+					<country> Switzerland </country>
+				</address>
+				<num_orders> 2 </num_orders>
+				<order_value> 4301.7 </order_value>
+			</customer>
+			<customer>
+				<customerName> Die Wandernde Kuh </customerName>
+				<address>
+					<street_address> Adenauerallee 900 </street_address>
+					<city> Stuttgart </city>
+					<region>   </region>
+					<postal_code> 70563 </postal_code>
+					<country> Germany </country>
+				</address>
+				<num_orders> 4 </num_orders>
+				<order_value> 2790.15 </order_value>
+			</customer>
+			<customer>
+				<customerName> Du monde entier </customerName>
+				<address>
+					<street_address> 67, rue des Cinquante Otages </street_address>
+					<city> Nantes </city>
+					<region>   </region>
+					<postal_code> 44000 </postal_code>
+					<country> France </country>
+				</address>
+				<num_orders> 2 </num_orders>
+				<order_value> 487.0 </order_value>
+			</customer>
+			<customer>
+				<customerName> Eastern Connection </customerName>
+				<address>
+					<street_address> 35 King George </street_address>
+					<city> London </city>
+					<region>   </region>
+					<postal_code> WX3 6FW </postal_code>
+					<country> UK </country>
+				</address>
+				<num_orders> 1 </num_orders>
+				<order_value> 655.0 </order_value>
+			</customer>
+			<customer>
+				<customerName> Ernst Handel </customerName>
+				<address>
+					<street_address> Kirchgasse 6 </street_address>
+					<city> Graz </city>
+					<region>   </region>
+					<postal_code> 8010 </postal_code>
+					<country> Austria </country>
+				</address>
+				<num_orders> 6 </num_orders>
+				<order_value> 21492.53 </order_value>
+			</customer>
+			<customer>
+				<customerName> Familia Arquibaldo </customerName>
+				<address>
+					<street_address> Rua Ors, 92 </street_address>
+					<city> Sao Paulo </city>
+					<region> SP </region>
+					<postal_code> 05442-030 </postal_code>
+					<country> Brazil </country>
+				</address>
+				<num_orders> 3 </num_orders>
+				<order_value> 2495.5 </order_value>
+			</customer>
+			<customer>
+				<customerName> Folies gourmandes </customerName>
+				<address>
+					<street_address> 184, chausse de Tournai </street_address>
+					<city> Lille </city>
+					<region>   </region>
+					<postal_code> 59000 </postal_code>
+					<country> France </country>
+				</address>
+				<num_orders> 2 </num_orders>
+				<order_value> 5601.5 </order_value>
+			</customer>
+			<customer>
+				<customerName> Folk och f HB </customerName>
+				<address>
+					<street_address> kergatan 24 </street_address>
+					<city> Brcke </city>
+					<region>   </region>
+					<postal_code> S-844 67 </postal_code>
+					<country> Sweden </country>
+				</address>
+				<num_orders> 2 </num_orders>
+				<order_value> 6882.0 </order_value>
+			</customer>
+			<customer>
+				<customerName> France restauration </customerName>
+				<address>
+					<street_address> 54, rue Royale </street_address>
+					<city> Nantes </city>
+					<region>   </region>
+					<postal_code> 44000 </postal_code>
+					<country> France </country>
+				</address>
+				<num_orders> 1 </num_orders>
+				<order_value> 920.1 </order_value>
+			</customer>
+			<customer>
+				<customerName> Franchi S.p.A. </customerName>
+				<address>
+					<street_address> Via Monte Bianco 34 </street_address>
+					<city> Torino </city>
+					<region>   </region>
+					<postal_code> 10100 </postal_code>
+					<country> Italy </country>
+				</address>
+				<num_orders> 2 </num_orders>
+				<order_value> 181.5 </order_value>
+			</customer>
+			<customer>
+				<customerName> Frankenversand </customerName>
+				<address>
+					<street_address> Berliner Platz 43 </street_address>
+					<city> Mnchen </city>
+					<region>   </region>
+					<postal_code> 80805 </postal_code>
+					<country> Germany </country>
+				</address>
+				<num_orders> 5 </num_orders>
+				<order_value> 7689.75 </order_value>
+			</customer>
+			<customer>
+				<customerName> Furia Bacalhau e Frutos do Mar </customerName>
+				<address>
+					<street_address> Jardim das rosas n. 32 </street_address>
+					<city> Lisboa </city>
+					<region>   </region>
+					<postal_code> 1675 </postal_code>
+					<country> Portugal </country>
+				</address>
+				<num_orders> 2 </num_orders>
+				<order_value> 1772.25 </order_value>
+			</customer>
+			<customer>
+				<customerName> Galera del gastrnomo </customerName>
+				<address>
+					<street_address> Rambla de Catalua, 23 </street_address>
+					<city> Barcelona </city>
+					<region>   </region>
+					<postal_code> 08022 </postal_code>
+					<country> Spain </country>
+				</address>
+				<num_orders> 1 </num_orders>
+				<order_value> 155.0 </order_value>
+			</customer>
+			<customer>
+				<customerName> Godos Cocina Tpica </customerName>
+				<address>
+					<street_address> C/ Romero, 33 </street_address>
+					<city> Sevilla </city>
+					<region>   </region>
+					<postal_code> 41101 </postal_code>
+					<country> Spain </country>
+				</address>
+				<num_orders> 1 </num_orders>
+				<order_value> 2775.05 </order_value>
+			</customer>
+			<customer>
+				<customerName> Gourmet Lanchonetes </customerName>
+				<address>
+					<street_address> Av. Brasil, 442 </street_address>
+					<city> Campinas </city>
+					<region> SP </region>
+					<postal_code> 04876-786 </postal_code>
+					<country> Brazil </country>
+				</address>
+				<num_orders> 4 </num_orders>
+				<order_value> 6055.23 </order_value>
+			</customer>
+			<customer>
+				<customerName> Great Lakes Food Market </customerName>
+				<address>
+					<street_address> 2732 Baker Blvd. </street_address>
+					<city> Eugene </city>
+					<region> OR </region>
+					<postal_code> 97403 </postal_code>
+					<country> USA </country>
+				</address>
+				<num_orders> 5 </num_orders>
+				<order_value> 8752.35 </order_value>
+			</customer>
+			<customer>
+				<customerName> Hanari Carnes </customerName>
+				<address>
+					<street_address> Rua do Pao, 67 </street_address>
+					<city> Rio de Janeiro </city>
+					<region> RJ </region>
+					<postal_code> 05454-876 </postal_code>
+					<country> Brazil </country>
+				</address>
+				<num_orders> 2 </num_orders>
+				<order_value> 2685.0 </order_value>
+			</customer>
+			<customer>
+				<customerName> HILARION-Abastos </customerName>
+				<address>
+					<street_address> Carrera 22 con Ave. Carlos Soublette #8-35 </street_address>
+					<city> San Cristbal </city>
+					<region> Tchira </region>
+					<postal_code> 5022 </postal_code>
+					<country> Venezuela </country>
+				</address>
+				<num_orders> 4 </num_orders>
+				<order_value> 5075.0 </order_value>
+			</customer>
+			<customer>
+				<customerName> Hungry Coyote Import Store </customerName>
+				<address>
+					<street_address> City Center Plaza 516 Main St. </street_address>
+					<city> Elgin </city>
+					<region> OR </region>
+					<postal_code> 97827 </postal_code>
+					<country> USA </country>
+				</address>
+				<num_orders> 2 </num_orders>
+				<order_value> 2180.8 </order_value>
+			</customer>
+			<customer>
+				<customerName> Hungry Owl All-Night Grocers </customerName>
+				<address>
+					<street_address> 8 Johnstown Road </street_address>
+					<city> Cork </city>
+					<region> Co. Cork </region>
+					<postal_code>   </postal_code>
+					<country> Ireland </country>
+				</address>
+				<num_orders> 7 </num_orders>
+				<order_value> 17547.55 </order_value>
+			</customer>
+			<customer>
+				<customerName> Island Trading </customerName>
+				<address>
+					<street_address> Garden House Crowther Way </street_address>
+					<city> Cowes </city>
+					<region> Isle of Wight </region>
+					<postal_code> PO31 7PJ </postal_code>
+					<country> UK </country>
+				</address>
+				<num_orders> 3 </num_orders>
+				<order_value> 1883.5 </order_value>
+			</customer>
+			<customer>
+				<customerName> Kniglich Essen </customerName>
+				<address>
+					<street_address> Maubelstr. 90 </street_address>
+					<city> Brandenburg </city>
+					<region>   </region>
+					<postal_code> 14776 </postal_code>
+					<country> Germany </country>
+				</address>
+				<num_orders> 2 </num_orders>
+				<order_value> 4381.0 </order_value>
+			</customer>
+			<customer>
+				<customerName> La maison d'Asie </customerName>
+				<address>
+					<street_address> 1 rue Alsace-Lorraine </street_address>
+					<city> Toulouse </city>
+					<region>   </region>
+					<postal_code> 31000 </postal_code>
+					<country> France </country>
+				</address>
+				<num_orders> 2 </num_orders>
+				<order_value> 461.0 </order_value>
+			</customer>
+			<customer>
+				<customerName> Laughing Bacchus Wine Cellars </customerName>
+				<address>
+					<street_address> 1900 Oak St. </street_address>
+					<city> Vancouver </city>
+					<region> BC </region>
+					<postal_code> V3F 2K1 </postal_code>
+					<country> Canada </country>
+				</address>
+				<num_orders> 1 </num_orders>
+				<order_value> 57.5 </order_value>
+			</customer>
+			<customer>
+				<customerName> Lehmanns Marktstand </customerName>
+				<address>
+					<street_address> Magazinweg 7 </street_address>
+					<city> Frankfurt a.M. </city>
+					<region>   </region>
+					<postal_code> 60528 </postal_code>
+					<country> Germany </country>
+				</address>
+				<num_orders> 2 </num_orders>
+				<order_value> 3036.65 </order_value>
+			</customer>
+			<customer>
+				<customerName> Let's Stop N Shop </customerName>
+				<address>
+					<street_address> 87 Polk St. Suite 5 </street_address>
+					<city> San Francisco </city>
+					<region> CA </region>
+					<postal_code> 94117 </postal_code>
+					<country> USA </country>
+				</address>
+				<num_orders> 3 </num_orders>
+				<order_value> 2039.42 </order_value>
+			</customer>
+			<customer>
+				<customerName> LINO-Delicateses </customerName>
+				<address>
+					<street_address> Ave. 5 de Mayo Porlamar </street_address>
+					<city> I. de Margarita </city>
+					<region> Nueva Esparta </region>
+					<postal_code> 4980 </postal_code>
+					<country> Venezuela </country>
+				</address>
+				<num_orders> 3 </num_orders>
+				<order_value> 5643.95 </order_value>
+			</customer>
+			<customer>
+				<customerName> Lonesome Pine Restaurant </customerName>
+				<address>
+					<street_address> 89 Chiaroscuro Rd. </street_address>
+					<city> Portland </city>
+					<region> OR </region>
+					<postal_code> 97219 </postal_code>
+					<country> USA </country>
+				</address>
+				<num_orders> 2 </num_orders>
+				<order_value> 1420.0 </order_value>
+			</customer>
+			<customer>
+				<customerName> Magazzini Alimentari Riuniti </customerName>
+				<address>
+					<street_address> Via Ludovico il Moro 22 </street_address>
+					<city> Bergamo </city>
+					<region>   </region>
+					<postal_code> 24100 </postal_code>
+					<country> Italy </country>
+				</address>
+				<num_orders> 2 </num_orders>
+				<order_value> 1435.45 </order_value>
+			</customer>
+			<customer>
+				<customerName> Maison Dewey </customerName>
+				<address>
+					<street_address> Rue Joseph-Bens 532 </street_address>
+					<city> Bruxelles </city>
+					<region>   </region>
+					<postal_code> B-1180 </postal_code>
+					<country> Belgium </country>
+				</address>
+				<num_orders> 2 </num_orders>
+				<order_value> 4738.0 </order_value>
+			</customer>
+			<customer>
+				<customerName> Morgenstern Gesundkost </customerName>
+				<address>
+					<street_address> Heerstr. 22 </street_address>
+					<city> Leipzig </city>
+					<region>   </region>
+					<postal_code> 04179 </postal_code>
+					<country> Germany </country>
+				</address>
+				<num_orders> 2 </num_orders>
+				<order_value> 2261.4 </order_value>
+			</customer>
+			<customer>
+				<customerName> Mre Paillarde </customerName>
+				<address>
+					<street_address> 43 rue St. Laurent </street_address>
+					<city> Montral </city>
+					<region> Qubec </region>
+					<postal_code> H1J 1C3 </postal_code>
+					<country> Canada </country>
+				</address>
+				<num_orders> 7 </num_orders>
+				<order_value> 13368.0 </order_value>
+			</customer>
+			<customer>
+				<customerName> North/South </customerName>
+				<address>
+					<street_address> South House 300 Queensbridge </street_address>
+					<city> London </city>
+					<region>   </region>
+					<postal_code> SW7 1RZ </postal_code>
+					<country> UK </country>
+				</address>
+				<num_orders> 1 </num_orders>
+				<order_value> 252.0 </order_value>
+			</customer>
+			<customer>
+				<customerName> Old World Delicatessen </customerName>
+				<address>
+					<street_address> 2743 Bering St. </street_address>
+					<city> Anchorage </city>
+					<region> AK </region>
+					<postal_code> 99508 </postal_code>
+					<country> USA </country>
+				</address>
+				<num_orders> 3 </num_orders>
+				<order_value> 4141.0 </order_value>
+			</customer>
+			<customer>
+				<customerName> Ottilies Kseladen </customerName>
+				<address>
+					<street_address> Mehrheimerstr. 369 </street_address>
+					<city> Kln </city>
+					<region>   </region>
+					<postal_code> 50739 </postal_code>
+					<country> Germany </country>
+				</address>
+				<num_orders> 3 </num_orders>
+				<order_value> 5145.1 </order_value>
+			</customer>
+			<customer>
+				<customerName> Piccolo und mehr </customerName>
+				<address>
+					<street_address> Geislweg 14 </street_address>
+					<city> Salzburg </city>
+					<region>   </region>
+					<postal_code> 5020 </postal_code>
+					<country> Austria </country>
+				</address>
+				<num_orders> 3 </num_orders>
+				<order_value> 4351.4 </order_value>
+			</customer>
+			<customer>
+				<customerName> Que Delcia </customerName>
+				<address>
+					<street_address> Rua da Panificadora, 12 </street_address>
+					<city> Rio de Janeiro </city>
+					<region> RJ </region>
+					<postal_code> 02389-673 </postal_code>
+					<country> Brazil </country>
+				</address>
+				<num_orders> 3 </num_orders>
+				<order_value> 1993.38 </order_value>
+			</customer>
+			<customer>
+				<customerName> Queen Cozinha </customerName>
+				<address>
+					<street_address> Alameda dos Canrios, 891 </street_address>
+					<city> Sao Paulo </city>
+					<region> SP </region>
+					<postal_code> 05487-020 </postal_code>
+					<country> Brazil </country>
+				</address>
+				<num_orders> 4 </num_orders>
+				<order_value> 6080.1 </order_value>
+			</customer>
+			<customer>
+				<customerName> QUICK-Stop </customerName>
+				<address>
+					<street_address> Taucherstrae 10 </street_address>
+					<city> Cunewalde </city>
+					<region>   </region>
+					<postal_code> 01307 </postal_code>
+					<country> Germany </country>
+				</address>
+				<num_orders> 7 </num_orders>
+				<order_value> 30744.1 </order_value>
+			</customer>
+			<customer>
+				<customerName> Rancho grande </customerName>
+				<address>
+					<street_address> Av. del Libertador 900 </street_address>
+					<city> Buenos Aires </city>
+					<region>   </region>
+					<postal_code> 1010 </postal_code>
+					<country> Argentina </country>
+				</address>
+				<num_orders> 1 </num_orders>
+				<order_value> 706.0 </order_value>
+			</customer>
+			<customer>
+				<customerName> Rattlesnake Canyon Grocery </customerName>
+				<address>
+					<street_address> 2817 Milton Dr. </street_address>
+					<city> Albuquerque </city>
+					<region> NM </region>
+					<postal_code> 87110 </postal_code>
+					<country> USA </country>
+				</address>
+				<num_orders> 4 </num_orders>
+				<order_value> 5294.5 </order_value>
+			</customer>
+			<customer>
+				<customerName> Reggiani Caseifici </customerName>
+				<address>
+					<street_address> Strada Provinciale 124 </street_address>
+					<city> Reggio Emilia </city>
+					<region>   </region>
+					<postal_code> 42100 </postal_code>
+					<country> Italy </country>
+				</address>
+				<num_orders> 4 </num_orders>
+				<order_value> 2474.0 </order_value>
+			</customer>
+			<customer>
+				<customerName> Ricardo Adocicados </customerName>
+				<address>
+					<street_address> Av. Copacabana, 267 </street_address>
+					<city> Rio de Janeiro </city>
+					<region> RJ </region>
+					<postal_code> 02389-890 </postal_code>
+					<country> Brazil </country>
+				</address>
+				<num_orders> 3 </num_orders>
+				<order_value> 1952.5 </order_value>
+			</customer>
+			<customer>
+				<customerName> Richter Supermarkt </customerName>
+				<address>
+					<street_address> Grenzacherweg 237 </street_address>
+					<city> Genve </city>
+					<region>   </region>
+					<postal_code> 1203 </postal_code>
+					<country> Switzerland </country>
+				</address>
+				<num_orders> 3 </num_orders>
+				<order_value> 8013.0 </order_value>
+			</customer>
+			<customer>
+				<customerName> Sant Gourmet </customerName>
+				<address>
+					<street_address> Erling Skakkes gate 78 </street_address>
+					<city> Stavern </city>
+					<region>   </region>
+					<postal_code> 4110 </postal_code>
+					<country> Norway </country>
+				</address>
+				<num_orders> 1 </num_orders>
+				<order_value> 500.0 </order_value>
+			</customer>
+			<customer>
+				<customerName> Save-a-lot Markets </customerName>
+				<address>
+					<street_address> 187 Suffolk Ln. </street_address>
+					<city> Boise </city>
+					<region> ID </region>
+					<postal_code> 83720 </postal_code>
+					<country> USA </country>
+				</address>
+				<num_orders> 13 </num_orders>
+				<order_value> 44367.6 </order_value>
+			</customer>
+			<customer>
+				<customerName> Simons bistro </customerName>
+				<address>
+					<street_address> Vinbltet 34 </street_address>
+					<city> Kobenhavn </city>
+					<region>   </region>
+					<postal_code> 1734 </postal_code>
+					<country> Denmark </country>
+				</address>
+				<num_orders> 2 </num_orders>
+				<order_value> 1440.0 </order_value>
+			</customer>
+			<customer>
+				<customerName> Spcialits du monde </customerName>
+				<address>
+					<street_address> 25, rue Lauriston </street_address>
+					<city> Paris </city>
+					<region>   </region>
+					<postal_code> 75016 </postal_code>
+					<country> France </country>
+				</address>
+				<num_orders> 1 </num_orders>
+				<order_value> 52.35 </order_value>
+			</customer>
+			<customer>
+				<customerName> Split Rail Beer & Ale </customerName>
+				<address>
+					<street_address> P.O. Box 555 </street_address>
+					<city> Lander </city>
+					<region> WY </region>
+					<postal_code> 82520 </postal_code>
+					<country> USA </country>
+				</address>
+				<num_orders> 1 </num_orders>
+				<order_value> 2487.5 </order_value>
+			</customer>
+			<customer>
+				<customerName> Suprmes dlices </customerName>
+				<address>
+					<street_address> Boulevard Tirou, 255 </street_address>
+					<city> Charleroi </city>
+					<region>   </region>
+					<postal_code> B-6000 </postal_code>
+					<country> Belgium </country>
+				</address>
+				<num_orders> 1 </num_orders>
+				<order_value> 28.0 </order_value>
+			</customer>
+			<customer>
+				<customerName> The Big Cheese </customerName>
+				<address>
+					<street_address> 89 Jefferson Way Suite 2 </street_address>
+					<city> Portland </city>
+					<region> OR </region>
+					<postal_code> 97201 </postal_code>
+					<country> USA </country>
+				</address>
+				<num_orders> 1 </num_orders>
+				<order_value> 180.4 </order_value>
+			</customer>
+			<customer>
+				<customerName> The Cracker Box </customerName>
+				<address>
+					<street_address> 55 Grizzly Peak Rd. </street_address>
+					<city> Butte </city>
+					<region> MT </region>
+					<postal_code> 59801 </postal_code>
+					<country> USA </country>
+				</address>
+				<num_orders> 1 </num_orders>
+				<order_value> 1393.24 </order_value>
+			</customer>
+			<customer>
+				<customerName> Toms Spezialitten </customerName>
+				<address>
+					<street_address> Luisenstr. 48 </street_address>
+					<city> Mnster </city>
+					<region>   </region>
+					<postal_code> 44087 </postal_code>
+					<country> Germany </country>
+				</address>
+				<num_orders> 1 </num_orders>
+				<order_value> 1064.0 </order_value>
+			</customer>
+			<customer>
+				<customerName> Tortuga Restaurante </customerName>
+				<address>
+					<street_address> Avda. Azteca 123 </street_address>
+					<city> Mxico D.F. </city>
+					<region>   </region>
+					<postal_code> 05033 </postal_code>
+					<country> Mexico </country>
+				</address>
+				<num_orders> 2 </num_orders>
+				<order_value> 1373.3 </order_value>
+			</customer>
+			<customer>
+				<customerName> Tradio Hipermercados </customerName>
+				<address>
+					<street_address> Av. Ins de Castro, 414 </street_address>
+					<city> Sao Paulo </city>
+					<region> SP </region>
+					<postal_code> 05634-030 </postal_code>
+					<country> Brazil </country>
+				</address>
+				<num_orders> 1 </num_orders>
+				<order_value> 1413.0 </order_value>
+			</customer>
+			<customer>
+				<customerName> Trail's Head Gourmet Provisioners </customerName>
+				<address>
+					<street_address> 722 DaVinci Blvd. </street_address>
+					<city> Kirkland </city>
+					<region> WA </region>
+					<postal_code> 98034 </postal_code>
+					<country> USA </country>
+				</address>
+				<num_orders> 2 </num_orders>
+				<order_value> 1333.3 </order_value>
+			</customer>
+			<customer>
+				<customerName> Vaffeljernet </customerName>
+				<address>
+					<street_address> Smagsloget 45 </street_address>
+					<city> rhus </city>
+					<region>   </region>
+					<postal_code> 8200 </postal_code>
+					<country> Denmark </country>
+				</address>
+				<num_orders> 4 </num_orders>
+				<order_value> 5287.5 </order_value>
+			</customer>
+			<customer>
+				<customerName> Vins et alcools Chevalier </customerName>
+				<address>
+					<street_address> 59 rue de l'Abbaye </street_address>
+					<city> Reims </city>
+					<region>   </region>
+					<postal_code> 51100 </postal_code>
+					<country> France </country>
+				</address>
+				<num_orders> 2 </num_orders>
+				<order_value> 379.8 </order_value>
+			</customer>
+			<customer>
+				<customerName> Wartian Herkku </customerName>
+				<address>
+					<street_address> Torikatu 38 </street_address>
+					<city> Oulu </city>
+					<region>   </region>
+					<postal_code> 90110 </postal_code>
+					<country> Finland </country>
+				</address>
+				<num_orders> 3 </num_orders>
+				<order_value> 4914.65 </order_value>
+			</customer>
+			<customer>
+				<customerName> Wellington Importadora </customerName>
+				<address>
+					<street_address> Rua do Mercado, 12 </street_address>
+					<city> Resende </city>
+					<region> SP </region>
+					<postal_code> 08737-363 </postal_code>
+					<country> Brazil </country>
+				</address>
+				<num_orders> 2 </num_orders>
+				<order_value> 1564.5 </order_value>
+			</customer>
+			<customer>
+				<customerName> White Clover Markets </customerName>
+				<address>
+					<street_address> 305 - 14th Ave. S. Suite 3B </street_address>
+					<city> Seattle </city>
+					<region> WA </region>
+					<postal_code> 98128 </postal_code>
+					<country> USA </country>
+				</address>
+				<num_orders> 5 </num_orders>
+				<order_value> 7044.55 </order_value>
+			</customer>
+			<customer>
+				<customerName> Wilman Kala </customerName>
+				<address>
+					<street_address> Keskuskatu 45 </street_address>
+					<city> Helsinki </city>
+					<region>   </region>
+					<postal_code> 21240 </postal_code>
+					<country> Finland </country>
+				</address>
+				<num_orders> 3 </num_orders>
+				<order_value> 1174.35 </order_value>
+			</customer>
+			<customer>
+				<customerName> Wolski  Zajazd </customerName>
+				<address>
+					<street_address> ul. Filtrowa 68 </street_address>
+					<city> Warszawa </city>
+					<region>   </region>
+					<postal_code> 01-012 </postal_code>
+					<country> Poland </country>
+				</address>
+				<num_orders> 1 </num_orders>
+				<order_value> 808.0 </order_value>
+			</customer>
+		</customer_list>
+		<product_list>
+			<category>
+				<category_name> Grains/Cereals</category_name>
+			<product>
+				<product_name> Filo Mix</product_name>
+				<supplier_name> G'day, Mate</supplier_name>
+				<unit_sold> 219</unit_sold>
+				<sale_value> 1533.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Gnocchi di nonna Alice</product_name>
+				<supplier_name> Pasta Buttini s.r.l.</supplier_name>
+				<unit_sold> 469</unit_sold>
+				<sale_value> 17822.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Gustaf's Knckebrd</product_name>
+				<supplier_name> PB Knckebrd AB</supplier_name>
+				<unit_sold> 169</unit_sold>
+				<sale_value> 3549.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Ravioli Angelo</product_name>
+				<supplier_name> Pasta Buttini s.r.l.</supplier_name>
+				<unit_sold> 84</unit_sold>
+				<sale_value> 1638.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Singaporean Hokkien Fried Mee</product_name>
+				<supplier_name> Leka Trading</supplier_name>
+				<unit_sold> 259</unit_sold>
+				<sale_value> 3626.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Tunnbrd</product_name>
+				<supplier_name> PB Knckebrd AB</supplier_name>
+				<unit_sold> 91</unit_sold>
+				<sale_value> 819.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Wimmers gute Semmelkndel</product_name>
+				<supplier_name> Plutzer Lebensmittelgromrkte AG</supplier_name>
+				<unit_sold> 100</unit_sold>
+				<sale_value> 3325.0 </sale_value>
+			</product>
+			</category>
+			<category>
+				<category_name> Confections</category_name>
+			<product>
+				<product_name> Chocolade</product_name>
+				<supplier_name> Zaanse Snoepfabriek</supplier_name>
+				<unit_sold> 30</unit_sold>
+				<sale_value> 382.5 </sale_value>
+			</product>
+			<product>
+				<product_name> Gumbr Gummibrchen</product_name>
+				<supplier_name> Heli Swaren GmbH & Co. KG</supplier_name>
+				<unit_sold> 168</unit_sold>
+				<sale_value> 5246.64 </sale_value>
+			</product>
+			<product>
+				<product_name> Maxilaku</product_name>
+				<supplier_name> Karkki Oy</supplier_name>
+				<unit_sold> 43</unit_sold>
+				<sale_value> 860.0 </sale_value>
+			</product>
+			<product>
+				<product_name> NuNuCa Nu-Nougat-Creme</product_name>
+				<supplier_name> Heli Swaren GmbH & Co. KG</supplier_name>
+				<unit_sold> 47</unit_sold>
+				<sale_value> 658.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Pavlova</product_name>
+				<supplier_name> Pavlova, Ltd.</supplier_name>
+				<unit_sold> 193</unit_sold>
+				<sale_value> 3367.85 </sale_value>
+			</product>
+			<product>
+				<product_name> Schoggi Schokolade</product_name>
+				<supplier_name> Heli Swaren GmbH & Co. KG</supplier_name>
+				<unit_sold> 90</unit_sold>
+				<sale_value> 3951.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Scottish Longbreads</product_name>
+				<supplier_name> Specialty Biscuits, Ltd.</supplier_name>
+				<unit_sold> 174</unit_sold>
+				<sale_value> 2175.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Sir Rodney's Marmalade</product_name>
+				<supplier_name> Specialty Biscuits, Ltd.</supplier_name>
+				<unit_sold> 42</unit_sold>
+				<sale_value> 3402.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Sir Rodney's Scones</product_name>
+				<supplier_name> Specialty Biscuits, Ltd.</supplier_name>
+				<unit_sold> 330</unit_sold>
+				<sale_value> 3300.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Tarte au sucre</product_name>
+				<supplier_name> Forts d'rables</supplier_name>
+				<unit_sold> 252</unit_sold>
+				<sale_value> 12423.6 </sale_value>
+			</product>
+			<product>
+				<product_name> Teatime Chocolate Biscuits</product_name>
+				<supplier_name> Specialty Biscuits, Ltd.</supplier_name>
+				<unit_sold> 123</unit_sold>
+				<sale_value> 1131.6 </sale_value>
+			</product>
+			<product>
+				<product_name> Valkoinen suklaa</product_name>
+				<supplier_name> Karkki Oy</supplier_name>
+				<unit_sold> 85</unit_sold>
+				<sale_value> 1381.25 </sale_value>
+			</product>
+			<product>
+				<product_name> Zaanse koeken</product_name>
+				<supplier_name> Zaanse Snoepfabriek</supplier_name>
+				<unit_sold> 213</unit_sold>
+				<sale_value> 2023.5 </sale_value>
+			</product>
+			</category>
+			<category>
+				<category_name> Produce</category_name>
+			<product>
+				<product_name> Longlife Tofu</product_name>
+				<supplier_name> Tokyo Traders</supplier_name>
+				<unit_sold> 5</unit_sold>
+				<sale_value> 50.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Manjimup Dried Apples</product_name>
+				<supplier_name> G'day, Mate</supplier_name>
+				<unit_sold> 151</unit_sold>
+				<sale_value> 8003.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Rssle Sauerkraut</product_name>
+				<supplier_name> Plutzer Lebensmittelgromrkte AG</supplier_name>
+				<unit_sold> 130</unit_sold>
+				<sale_value> 5928.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Tofu</product_name>
+				<supplier_name> Mayumi's</supplier_name>
+				<unit_sold> 104</unit_sold>
+				<sale_value> 2418.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Uncle Bob's Organic Dried Pears</product_name>
+				<supplier_name> Grandma Kelly's Homestead</supplier_name>
+				<unit_sold> 215</unit_sold>
+				<sale_value> 6450.0 </sale_value>
+			</product>
+			</category>
+			<category>
+				<category_name> Meat/Poultry</category_name>
+			<product>
+				<product_name> Alice Mutton</product_name>
+				<supplier_name> Pavlova, Ltd.</supplier_name>
+				<unit_sold> 239</unit_sold>
+				<sale_value> 9321.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Mishi Kobe Niku</product_name>
+				<supplier_name> Tokyo Traders</supplier_name>
+				<unit_sold> 56</unit_sold>
+				<sale_value> 5432.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Perth Pasties</product_name>
+				<supplier_name> G'day, Mate</supplier_name>
+				<unit_sold> 195</unit_sold>
+				<sale_value> 6396.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Pt chinois</product_name>
+				<supplier_name> Ma Maison</supplier_name>
+				<unit_sold> 105</unit_sold>
+				<sale_value> 2520.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Thringer Rostbratwurst</product_name>
+				<supplier_name> Plutzer Lebensmittelgromrkte AG</supplier_name>
+				<unit_sold> 134</unit_sold>
+				<sale_value> 16587.86 </sale_value>
+			</product>
+			<product>
+				<product_name> Tourtire</product_name>
+				<supplier_name> Ma Maison</supplier_name>
+				<unit_sold> 235</unit_sold>
+				<sale_value> 1750.75 </sale_value>
+			</product>
+			</category>
+			<category>
+				<category_name> Seafood</category_name>
+			<product>
+				<product_name> Boston Crab Meat</product_name>
+				<supplier_name> New England Seafood Cannery</supplier_name>
+				<unit_sold> 397</unit_sold>
+				<sale_value> 7304.8 </sale_value>
+			</product>
+			<product>
+				<product_name> Carnarvon Tigers</product_name>
+				<supplier_name> Pavlova, Ltd.</supplier_name>
+				<unit_sold> 197</unit_sold>
+				<sale_value> 12312.5 </sale_value>
+			</product>
+			<product>
+				<product_name> Escargots de Bourgogne</product_name>
+				<supplier_name> Escargots Nouveaux</supplier_name>
+				<unit_sold> 157</unit_sold>
+				<sale_value> 2080.25 </sale_value>
+			</product>
+			<product>
+				<product_name> Ikura</product_name>
+				<supplier_name> Tokyo Traders</supplier_name>
+				<unit_sold> 222</unit_sold>
+				<sale_value> 6882.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Inlagd Sill</product_name>
+				<supplier_name> Svensk Sjfda AB</supplier_name>
+				<unit_sold> 223</unit_sold>
+				<sale_value> 4237.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Jack's New England Clam Chowder</product_name>
+				<supplier_name> New England Seafood Cannery</supplier_name>
+				<unit_sold> 278</unit_sold>
+				<sale_value> 2682.7 </sale_value>
+			</product>
+			<product>
+				<product_name> Konbu</product_name>
+				<supplier_name> Mayumi's</supplier_name>
+				<unit_sold> 91</unit_sold>
+				<sale_value> 546.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Nord-Ost Matjeshering</product_name>
+				<supplier_name> Nord-Ost-Fisch Handelsgesellschaft mbH</supplier_name>
+				<unit_sold> 95</unit_sold>
+				<sale_value> 2459.55 </sale_value>
+			</product>
+			<product>
+				<product_name> Rd Kaviar</product_name>
+				<supplier_name> Svensk Sjfda AB</supplier_name>
+				<unit_sold> 180</unit_sold>
+				<sale_value> 2700.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Rogede sild</product_name>
+				<supplier_name> Lyngbysild</supplier_name>
+				<unit_sold> 214</unit_sold>
+				<sale_value> 2033.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Spegesild</product_name>
+				<supplier_name> Lyngbysild</supplier_name>
+				<unit_sold> 198</unit_sold>
+				<sale_value> 2376.0 </sale_value>
+			</product>
+			</category>
+			<category>
+				<category_name> Beverages</category_name>
+			<product>
+				<product_name> Chai</product_name>
+				<supplier_name> Exotic Liquids</supplier_name>
+				<unit_sold> 207</unit_sold>
+				<sale_value> 3726.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Chang</product_name>
+				<supplier_name> Exotic Liquids</supplier_name>
+				<unit_sold> 203</unit_sold>
+				<sale_value> 3857.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Chartreuse verte</product_name>
+				<supplier_name> Aux joyeux ecclsiastiques</supplier_name>
+				<unit_sold> 225</unit_sold>
+				<sale_value> 4050.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Cte de Blaye</product_name>
+				<supplier_name> Aux joyeux ecclsiastiques</supplier_name>
+				<unit_sold> 30</unit_sold>
+				<sale_value> 7905.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Guaran Fantstica</product_name>
+				<supplier_name> Refrescos Americanas LTDA</supplier_name>
+				<unit_sold> 158</unit_sold>
+				<sale_value> 711.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Ipoh Coffee</product_name>
+				<supplier_name> Leka Trading</supplier_name>
+				<unit_sold> 120</unit_sold>
+				<sale_value> 5520.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Lakkalikri</product_name>
+				<supplier_name> Karkki Oy</supplier_name>
+				<unit_sold> 303</unit_sold>
+				<sale_value> 5454.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Laughing Lumberjack Lager</product_name>
+				<supplier_name> Bigfoot Breweries</supplier_name>
+				<unit_sold> 25</unit_sold>
+				<sale_value> 350.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Outback Lager</product_name>
+				<supplier_name> Pavlova, Ltd.</supplier_name>
+				<unit_sold> 246</unit_sold>
+				<sale_value> 3690.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Rhnbru Klosterbier</product_name>
+				<supplier_name> Plutzer Lebensmittelgromrkte AG</supplier_name>
+				<unit_sold> 321</unit_sold>
+				<sale_value> 2487.75 </sale_value>
+			</product>
+			<product>
+				<product_name> Sasquatch Ale</product_name>
+				<supplier_name> Bigfoot Breweries</supplier_name>
+				<unit_sold> 96</unit_sold>
+				<sale_value> 1344.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Steeleye Stout</product_name>
+				<supplier_name> Bigfoot Breweries</supplier_name>
+				<unit_sold> 169</unit_sold>
+				<sale_value> 3042.0 </sale_value>
+			</product>
+			</category>
+			<category>
+				<category_name> Condiments</category_name>
+			<product>
+				<product_name> Aniseed Syrup</product_name>
+				<supplier_name> Exotic Liquids</supplier_name>
+				<unit_sold> 60</unit_sold>
+				<sale_value> 600.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Chef Anton's Cajun Seasoning</product_name>
+				<supplier_name> New Orleans Cajun Delights</supplier_name>
+				<unit_sold> 98</unit_sold>
+				<sale_value> 2156.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Chef Anton's Gumbo Mix</product_name>
+				<supplier_name> New Orleans Cajun Delights</supplier_name>
+				<unit_sold> 19</unit_sold>
+				<sale_value> 405.65 </sale_value>
+			</product>
+			<product>
+				<product_name> Genen Shouyu</product_name>
+				<supplier_name> Mayumi's</supplier_name>
+				<unit_sold> 85</unit_sold>
+				<sale_value> 1317.5 </sale_value>
+			</product>
+			<product>
+				<product_name> Grandma's Boysenberry Spread</product_name>
+				<supplier_name> Grandma Kelly's Homestead</supplier_name>
+				<unit_sold> 100</unit_sold>
+				<sale_value> 2500.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Gula Malacca</product_name>
+				<supplier_name> Leka Trading</supplier_name>
+				<unit_sold> 170</unit_sold>
+				<sale_value> 3306.5 </sale_value>
+			</product>
+			<product>
+				<product_name> Louisiana Fiery Hot Pepper Sauce</product_name>
+				<supplier_name> New Orleans Cajun Delights</supplier_name>
+				<unit_sold> 295</unit_sold>
+				<sale_value> 6209.75 </sale_value>
+			</product>
+			<product>
+				<product_name> Louisiana Hot Spiced Okra</product_name>
+				<supplier_name> New Orleans Cajun Delights</supplier_name>
+				<unit_sold> 4</unit_sold>
+				<sale_value> 68.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Northwoods Cranberry Sauce</product_name>
+				<supplier_name> Grandma Kelly's Homestead</supplier_name>
+				<unit_sold> 50</unit_sold>
+				<sale_value> 2000.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Original Frankfurter grne Soe</product_name>
+				<supplier_name> Plutzer Lebensmittelgromrkte AG</supplier_name>
+				<unit_sold> 240</unit_sold>
+				<sale_value> 3120.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Sirop d'rable</product_name>
+				<supplier_name> Forts d'rables</supplier_name>
+				<unit_sold> 175</unit_sold>
+				<sale_value> 4987.5 </sale_value>
+			</product>
+			<product>
+				<product_name> Vegie-spread</product_name>
+				<supplier_name> Pavlova, Ltd.</supplier_name>
+				<unit_sold> 59</unit_sold>
+				<sale_value> 2590.1 </sale_value>
+			</product>
+			</category>
+			<category>
+				<category_name> Dairy Products</category_name>
+			<product>
+				<product_name> Camembert Pierrot</product_name>
+				<supplier_name> Gai pturage</supplier_name>
+				<unit_sold> 389</unit_sold>
+				<sale_value> 13226.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Flotemysost</product_name>
+				<supplier_name> Norske Meierier</supplier_name>
+				<unit_sold> 248</unit_sold>
+				<sale_value> 5332.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Geitost</product_name>
+				<supplier_name> Norske Meierier</supplier_name>
+				<unit_sold> 136</unit_sold>
+				<sale_value> 340.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Gorgonzola Telino</product_name>
+				<supplier_name> Formaggi Fortini s.r.l.</supplier_name>
+				<unit_sold> 300</unit_sold>
+				<sale_value> 3750.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Gudbrandsdalsost</product_name>
+				<supplier_name> Norske Meierier</supplier_name>
+				<unit_sold> 333</unit_sold>
+				<sale_value> 11988.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Mascarpone Fabioli</product_name>
+				<supplier_name> Formaggi Fortini s.r.l.</supplier_name>
+				<unit_sold> 24</unit_sold>
+				<sale_value> 768.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Mozzarella di Giovanni</product_name>
+				<supplier_name> Formaggi Fortini s.r.l.</supplier_name>
+				<unit_sold> 159</unit_sold>
+				<sale_value> 5533.2 </sale_value>
+			</product>
+			<product>
+				<product_name> Queso Cabrales</product_name>
+				<supplier_name> Cooperativa de Quesos 'Las Cabras'</supplier_name>
+				<unit_sold> 94</unit_sold>
+				<sale_value> 1974.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Queso Manchego La Pastora</product_name>
+				<supplier_name> Cooperativa de Quesos 'Las Cabras'</supplier_name>
+				<unit_sold> 176</unit_sold>
+				<sale_value> 6688.0 </sale_value>
+			</product>
+			<product>
+				<product_name> Raclette Courdavault</product_name>
+				<supplier_name> Gai pturage</supplier_name>
+				<unit_sold> 353</unit_sold>
+				<sale_value> 19415.0 </sale_value>
+			</product>
+			</category>
+		</product_list>
+		<supplier_list>
+			<supplier>
+				<supplier_name> Refrescos Americanas LTDA </supplier_name>
+				<address>
+					<street_address> Av. das Americanas 12.890 </street_address>
+					<city> So Paulo </city>
+					<region>   </region>
+					<postal_code> 5442 </postal_code>
+					<country> Brazil </country>
+				</address>
+				<num_products> 158 </num_products>
+				<product_value> 711.0 </product_value>
+			</supplier>
+			<supplier>
+				<supplier_name> Escargots Nouveaux </supplier_name>
+				<address>
+					<street_address> 22, rue H. Voiron </street_address>
+					<city> Montceau </city>
+					<region>   </region>
+					<postal_code> 71300 </postal_code>
+					<country> France </country>
+				</address>
+				<num_products> 157 </num_products>
+				<product_value> 2080.25 </product_value>
+			</supplier>
+			<supplier>
+				<supplier_name> Zaanse Snoepfabriek </supplier_name>
+				<address>
+					<street_address> Verkoop
+Rijnweg 22 </street_address>
+					<city> Zaandam </city>
+					<region>   </region>
+					<postal_code> 9999 ZZ </postal_code>
+					<country> Netherlands </country>
+				</address>
+				<num_products> 213 </num_products>
+				<product_value> 2406.0 </product_value>
+			</supplier>
+			<supplier>
+				<supplier_name> Nord-Ost-Fisch Handelsgesellschaft mbH </supplier_name>
+				<address>
+					<street_address> Frahmredder 112a </street_address>
+					<city> Cuxhaven </city>
+					<region>   </region>
+					<postal_code> 27478 </postal_code>
+					<country> Germany </country>
+				</address>
+				<num_products> 95 </num_products>
+				<product_value> 2459.55 </product_value>
+			</supplier>
+			<supplier>
+				<supplier_name> Ma Maison </supplier_name>
+				<address>
+					<street_address> 2960 Rue St. Laurent </street_address>
+					<city> Montral </city>
+					<region> Qubec </region>
+					<postal_code> H1J 1C3 </postal_code>
+					<country> Canada </country>
+				</address>
+				<num_products> 235 </num_products>
+				<product_value> 4270.75 </product_value>
+			</supplier>
+			<supplier>
+				<supplier_name> Mayumi's </supplier_name>
+				<address>
+					<street_address> 92 Setsuko
+Chuo-ku </street_address>
+					<city> Osaka </city>
+					<region>   </region>
+					<postal_code> 545 </postal_code>
+					<country> Japan </country>
+				</address>
+				<num_products> 91 </num_products>
+				<product_value> 4281.5 </product_value>
+			</supplier>
+			<supplier>
+				<supplier_name> PB Knckebrd AB </supplier_name>
+				<address>
+					<street_address> Kaloadagatan 13 </street_address>
+					<city> Gteborg </city>
+					<region>   </region>
+					<postal_code> S-345 67 </postal_code>
+					<country> Sweden  </country>
+				</address>
+				<num_products> 91 </num_products>
+				<product_value> 4368.0 </product_value>
+			</supplier>
+			<supplier>
+				<supplier_name> Lyngbysild </supplier_name>
+				<address>
+					<street_address> Lyngbysild
+Fiskebakken 10 </street_address>
+					<city> Lyngby </city>
+					<region>   </region>
+					<postal_code> 2800 </postal_code>
+					<country> Denmark </country>
+				</address>
+				<num_products> 198 </num_products>
+				<product_value> 4409.0 </product_value>
+			</supplier>
+			<supplier>
+				<supplier_name> Bigfoot Breweries </supplier_name>
+				<address>
+					<street_address> 3400 - 8th Avenue
+Suite 210 </street_address>
+					<city> Bend </city>
+					<region> OR </region>
+					<postal_code> 97101 </postal_code>
+					<country> USA </country>
+				</address>
+				<num_products> 169 </num_products>
+				<product_value> 4736.0 </product_value>
+			</supplier>
+			<supplier>
+				<supplier_name> Svensk Sjfda AB </supplier_name>
+				<address>
+					<street_address> Brovallavgen 231 </street_address>
+					<city> Stockholm </city>
+					<region>   </region>
+					<postal_code> S-123 45 </postal_code>
+					<country> Sweden </country>
+				</address>
+				<num_products> 180 </num_products>
+				<product_value> 6937.0 </product_value>
+			</supplier>
+			<supplier>
+				<supplier_name> Karkki Oy </supplier_name>
+				<address>
+					<street_address> Valtakatu 12 </street_address>
+					<city> Lappeenranta </city>
+					<region>   </region>
+					<postal_code> 53120 </postal_code>
+					<country> Finland </country>
+				</address>
+				<num_products> 85 </num_products>
+				<product_value> 7695.25 </product_value>
+			</supplier>
+			<supplier>
+				<supplier_name> Exotic Liquids </supplier_name>
+				<address>
+					<street_address> 49 Gilbert St. </street_address>
+					<city> London </city>
+					<region>   </region>
+					<postal_code> EC1 4SD </postal_code>
+					<country> UK </country>
+				</address>
+				<num_products> 60 </num_products>
+				<product_value> 8183.0 </product_value>
+			</supplier>
+			<supplier>
+				<supplier_name> Cooperativa de Quesos 'Las Cabras' </supplier_name>
+				<address>
+					<street_address> Calle del Rosal 4 </street_address>
+					<city> Oviedo </city>
+					<region> Asturias </region>
+					<postal_code> 33007 </postal_code>
+					<country> Spain </country>
+				</address>
+				<num_products> 176 </num_products>
+				<product_value> 8662.0 </product_value>
+			</supplier>
+			<supplier>
+				<supplier_name> New Orleans Cajun Delights </supplier_name>
+				<address>
+					<street_address> P.O. Box 78934 </street_address>
+					<city> New Orleans </city>
+					<region> LA </region>
+					<postal_code> 70117 </postal_code>
+					<country> USA </country>
+				</address>
+				<num_products> 4 </num_products>
+				<product_value> 8839.4 </product_value>
+			</supplier>
+			<supplier>
+				<supplier_name> Heli Swaren GmbH & Co. KG </supplier_name>
+				<address>
+					<street_address> Tiergartenstrae 5 </street_address>
+					<city> Berlin </city>
+					<region>   </region>
+					<postal_code> 10785 </postal_code>
+					<country> Germany </country>
+				</address>
+				<num_products> 90 </num_products>
+				<product_value> 9855.64 </product_value>
+			</supplier>
+			<supplier>
+				<supplier_name> New England Seafood Cannery </supplier_name>
+				<address>
+					<street_address> Order Processing Dept.
+2100 Paul Revere Blvd. </street_address>
+					<city> Boston </city>
+					<region> MA </region>
+					<postal_code> 02134 </postal_code>
+					<country> USA </country>
+				</address>
+				<num_products> 278 </num_products>
+				<product_value> 9987.5 </product_value>
+			</supplier>
+			<supplier>
+				<supplier_name> Specialty Biscuits, Ltd. </supplier_name>
+				<address>
+					<street_address> 29 King's Way </street_address>
+					<city> Manchester </city>
+					<region>   </region>
+					<postal_code> M14 GSD </postal_code>
+					<country> UK </country>
+				</address>
+				<num_products> 123 </num_products>
+				<product_value> 10008.6 </product_value>
+			</supplier>
+			<supplier>
+				<supplier_name> Formaggi Fortini s.r.l. </supplier_name>
+				<address>
+					<street_address> Viale Dante, 75 </street_address>
+					<city> Ravenna </city>
+					<region>   </region>
+					<postal_code> 48100 </postal_code>
+					<country> Italy </country>
+				</address>
+				<num_products> 159 </num_products>
+				<product_value> 10051.2 </product_value>
+			</supplier>
+			<supplier>
+				<supplier_name> Grandma Kelly's Homestead </supplier_name>
+				<address>
+					<street_address> 707 Oxford Rd. </street_address>
+					<city> Ann Arbor </city>
+					<region> MI </region>
+					<postal_code> 48104 </postal_code>
+					<country> USA </country>
+				</address>
+				<num_products> 215 </num_products>
+				<product_value> 10950.0 </product_value>
+			</supplier>
+			<supplier>
+				<supplier_name> Aux joyeux ecclsiastiques </supplier_name>
+				<address>
+					<street_address> 203, Rue des Francs-Bourgeois </street_address>
+					<city> Paris </city>
+					<region>   </region>
+					<postal_code> 75004 </postal_code>
+					<country> France </country>
+				</address>
+				<num_products> 30 </num_products>
+				<product_value> 11955.0 </product_value>
+			</supplier>
+			<supplier>
+				<supplier_name> Tokyo Traders </supplier_name>
+				<address>
+					<street_address> 9-8 Sekimai
+Musashino-shi </street_address>
+					<city> Tokyo </city>
+					<region>   </region>
+					<postal_code> 100 </postal_code>
+					<country> Japan </country>
+				</address>
+				<num_products> 222 </num_products>
+				<product_value> 12364.0 </product_value>
+			</supplier>
+			<supplier>
+				<supplier_name> Leka Trading </supplier_name>
+				<address>
+					<street_address> 471 Serangoon Loop, Suite #402 </street_address>
+					<city> Singapore </city>
+					<region>   </region>
+					<postal_code> 0512 </postal_code>
+					<country> Singapore </country>
+				</address>
+				<num_products> 259 </num_products>
+				<product_value> 12452.5 </product_value>
+			</supplier>
+			<supplier>
+				<supplier_name> G'day, Mate </supplier_name>
+				<address>
+					<street_address> 170 Prince Edward Parade
+Hunter's Hill </street_address>
+					<city> Sydney </city>
+					<region> NSW </region>
+					<postal_code> 2042 </postal_code>
+					<country> Australia </country>
+				</address>
+				<num_products> 151 </num_products>
+				<product_value> 15932.0 </product_value>
+			</supplier>
+			<supplier>
+				<supplier_name> Forts d'rables </supplier_name>
+				<address>
+					<street_address> 148 rue Chasseur </street_address>
+					<city> Ste-Hyacinthe </city>
+					<region> Qubec </region>
+					<postal_code> J2S 7S8 </postal_code>
+					<country> Canada </country>
+				</address>
+				<num_products> 252 </num_products>
+				<product_value> 17411.1 </product_value>
+			</supplier>
+			<supplier>
+				<supplier_name> Norske Meierier </supplier_name>
+				<address>
+					<street_address> Hatlevegen 5 </street_address>
+					<city> Sandvika </city>
+					<region>   </region>
+					<postal_code> 1320 </postal_code>
+					<country> Norway </country>
+				</address>
+				<num_products> 333 </num_products>
+				<product_value> 17660.0 </product_value>
+			</supplier>
+			<supplier>
+				<supplier_name> Pasta Buttini s.r.l. </supplier_name>
+				<address>
+					<street_address> Via dei Gelsomini, 153 </street_address>
+					<city> Salerno </city>
+					<region>   </region>
+					<postal_code> 84100 </postal_code>
+					<country> Italy </country>
+				</address>
+				<num_products> 84 </num_products>
+				<product_value> 19460.0 </product_value>
+			</supplier>
+			<supplier>
+				<supplier_name> Pavlova, Ltd. </supplier_name>
+				<address>
+					<street_address> 74 Rose St.
+Moonie Ponds </street_address>
+					<city> Melbourne </city>
+					<region> Victoria </region>
+					<postal_code> 3058 </postal_code>
+					<country> Australia </country>
+				</address>
+				<num_products> 197 </num_products>
+				<product_value> 31281.45 </product_value>
+			</supplier>
+			<supplier>
+				<supplier_name> Plutzer Lebensmittelgromrkte AG </supplier_name>
+				<address>
+					<street_address> Bogenallee 51 </street_address>
+					<city> Frankfurt </city>
+					<region>   </region>
+					<postal_code> 60439 </postal_code>
+					<country> Germany </country>
+				</address>
+				<num_products> 130 </num_products>
+				<product_value> 31448.61 </product_value>
+			</supplier>
+			<supplier>
+				<supplier_name> Gai pturage </supplier_name>
+				<address>
+					<street_address> Bat. B
+3, rue des Alpes </street_address>
+					<city> Annecy </city>
+					<region>   </region>
+					<postal_code> 74000 </postal_code>
+					<country> France </country>
+				</address>
+				<num_products> 353 </num_products>
+				<product_value> 32641.0 </product_value>
+			</supplier>
+		</supplier_list>
+</period_summary>
